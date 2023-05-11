@@ -17,6 +17,6 @@ e escrevendo um novo arquivo em um outro diretório com esses valores atualizado
 - [x] Utilização das classes, BufferedReader, FileReader, BufferedWriter e FileWriter;
 - [x] Lógica da programação;
 
-------------
+---------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
